@@ -1,0 +1,53 @@
+{
+    "@id": "https://api.nuget.org/v3/catalog0/index.json",
+    "@type": [
+        "CatalogRoot",
+        "AppendOnlyCatalog",
+        "Permalink"
+    ],
+    "commitId": "0ecb24d7-d8e1-4f36-a2f6-85d32d9db094",
+    "commitTimeStamp": "2022-11-03T03:49:30.1872428Z",
+    "count": 17333,
+    "nuget:lastCreated": "2022-11-03T03:49:09.213Z",
+    "nuget:lastDeleted": "2022-11-01T23:36:31.0652697Z",
+    "nuget:lastEdited": "2022-11-03T03:49:09.213Z",
+    "items": [
+        {
+            "@id": "https://api.nuget.org/v3/catalog0/page11702.json",
+            "@type": "CatalogPage",
+            "commitId": "6df640f0-8681-460e-adb3-8ea5de6f53cc",
+            "commitTimeStamp": "2021-01-11T08:39:31.3161021Z",
+            "count": 550
+        },
+        {
+            "@id": "https://api.nuget.org/v3/catalog0/page12649.json",
+            "@type": "CatalogPage",
+            "commitId": "958da023-6b39-43d2-92b3-518b7793a803",
+            "commitTimeStamp": "2021-05-18T18:39:01.7006799Z",
+            "count": 544
+        }
+    ],
+    "@context": {
+        "@vocab": "http://schema.nuget.org/catalog#",
+        "nuget": "http://schema.nuget.org/schema#",
+        "items": {
+            "@id": "item",
+            "@container": "@set"
+        },
+        "parent": {
+            "@type": "@id"
+        },
+        "commitTimeStamp": {
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "nuget:lastCreated": {
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "nuget:lastEdited": {
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "nuget:lastDeleted": {
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+    }
+}
