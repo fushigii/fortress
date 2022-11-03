@@ -13,14 +13,14 @@
     "nuget:lastEdited": "2022-11-03T03:49:09.213Z",
     "items": [
         {
-            "@id": "https://github.com/fushigii/fortress/blob/main/json2.json",
+            "@id": "https://raw.githubusercontent.com/fushigii/fortress/main/json2.json",
             "@type": "CatalogPage",
             "commitId": "6df640f0-8681-460e-adb3-8ea5de6f53cc",
             "commitTimeStamp": "2021-01-11T08:39:31.3161021Z",
             "count": 550
         },
         {
-            "@id": "https://github.com/fushigii/fortress/blob/main/json2.json",
+            "@id": "https://raw.githubusercontent.com/fushigii/fortress/main/json2.json",
             "@type": "CatalogPage",
             "commitId": "958da023-6b39-43d2-92b3-518b7793a803",
             "commitTimeStamp": "2021-05-18T18:39:01.7006799Z",
